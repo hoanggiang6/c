@@ -1,0 +1,16 @@
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.SuggestedBindingRedirects.cache
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+D:\PHINAM\Project\C#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.SuggestedBindingRedirects.cache
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\g c\C#\Project\project hoan thien\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
